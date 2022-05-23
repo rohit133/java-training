@@ -1,11 +1,8 @@
 package Strings;
 
-import java.util.Scanner;
-
 public class duplicateChar{
     public static void main(String[] args) {
-        try(Scanner sc = new Scanner(System.in);){
-            String s = sc.nextLine();
+            String s = "helloworld";
             int distinct=0;
             // Outter Loop
             for(int i=0;i<s.length();i++){
@@ -22,6 +19,4 @@ public class duplicateChar{
 
             }
         }
-    }
-
 }

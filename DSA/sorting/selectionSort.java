@@ -1,4 +1,4 @@
-package DSA.sortingAlgo;
+package DSA.sorting;
 
 public class selectionSort {
 
