@@ -28,3 +28,7 @@ public class BinarySearch {
     }
     
 }
+
+
+// Time Complexity
+    // -> O(Log N) becasue it repeatedly dividing the search interval in half. 
